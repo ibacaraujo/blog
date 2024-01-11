@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome!"
+author: "Iago Breno"
 date: "2024-01-08"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post. Welcome!
 
 ![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
