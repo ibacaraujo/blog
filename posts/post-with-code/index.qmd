@@ -6,4 +6,4 @@ categories: [machine learning, human learning]
 image: "image.jpg"
 ---
 
-This is a post.
+My interest lies in machine learning.
